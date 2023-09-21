@@ -1,5 +1,5 @@
 import './App.css';
-import freeCodeCamplogo from './imagenes/fCC logo.png';
+//import freeCodeCamplogo from './imagenes/fCC logo.png';
 import Boton from './componentes/Boton';
 import Pantalla from './componentes/Pantalla';
 import BotonClear from "./componentes/BotonClear";
