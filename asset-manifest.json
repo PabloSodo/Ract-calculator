@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PabloSodo/Ract-calculator/static/css/main.820c056b.css",
+    "main.js": "/PabloSodo/Ract-calculator/static/js/main.a5f2dd05.js",
+    "static/media/fCC logo.png": "/PabloSodo/Ract-calculator/static/media/fCC logo.922fdeee3b1a1c6ac1f9.png",
+    "index.html": "/PabloSodo/Ract-calculator/index.html",
+    "main.820c056b.css.map": "/PabloSodo/Ract-calculator/static/css/main.820c056b.css.map",
+    "main.a5f2dd05.js.map": "/PabloSodo/Ract-calculator/static/js/main.a5f2dd05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820c056b.css",
+    "static/js/main.a5f2dd05.js"
+  ]
+}
